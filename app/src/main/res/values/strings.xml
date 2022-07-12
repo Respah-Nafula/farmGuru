@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FarmGuruActivity</string>
+    <string name="enter_first_name">Enter first name</string>
+    <string name="enter_last_name">Enter last name</string>
+    <string name="enter_password">Enter password</string>
+    <string name="Sign_up">Dont have an account?<u>Sign_up</u></string>
+    <string name="login">LOGIN</string>
+    <string name="confirm_your_password">confirm your password</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="confirm_yor_password">confirm yor password</string>
+    <string name="signup">SignUP</string>
+    <string name="enter_your_first_name">Enter your first name</string>
+    <string name="enter_yor_password">Enter yor password</string>
+    <string name="Login">Already have an account?Login</string>
+    <string name="login_form">Login Form</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="confirm_the_password">confirm the password</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="enter_your_surname">Enter your surname</string>
+    <string name="sign">Sign</string>
+    <string name="confirm">Confirm</string>
+    <string name="already_have_an_account_login">Already have an account?login</string>
+    <string name="signed">Signed</string>
+    <string name="dont_have_an_account_signup">Dont have an account?Signup</string>
+    <string name="enter_4_8_characters_password">Enter 4-8 characters password</string>
+    <string name="enter_you_other_name">Enter you other name</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="next">Next</string>
+</resources>
